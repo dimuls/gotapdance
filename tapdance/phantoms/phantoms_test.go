@@ -6,7 +6,7 @@ import (
 	"net"
 	"testing"
 
-	pb "github.com/refraction-networking/gotapdance/protobuf"
+	pb "github.com/dimuls/gotapdance/protobuf"
 	"github.com/stretchr/testify/require"
 )
 

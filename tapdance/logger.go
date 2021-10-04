@@ -24,7 +24,7 @@ func Logger() *logrus.Logger {
 		logrusLogger = logrus.New()
 		logrusLogger.Formatter = new(formatter)
 		// logrusLogger.Level = logrus.InfoLevel
-		logrusLogger.Level = logrus.DebugLevel
+		logrusLogger.Level = logrus.WarnLevel
 
 		// buildInfo const will be overwritten by CI with `sed` for test builds
 		// if not overwritten -- this is a NO-OP

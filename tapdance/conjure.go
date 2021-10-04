@@ -18,8 +18,8 @@ import (
 
 	pt "git.torproject.org/pluggable-transports/goptlib.git"
 	"github.com/golang/protobuf/proto"
-	pb "github.com/refraction-networking/gotapdance/protobuf"
-	ps "github.com/refraction-networking/gotapdance/tapdance/phantoms"
+	pb "github.com/dimuls/gotapdance/protobuf"
+	ps "github.com/dimuls/gotapdance/tapdance/phantoms"
 	tls "github.com/refraction-networking/utls"
 	"gitlab.com/yawning/obfs4.git/common/ntor"
 	"gitlab.com/yawning/obfs4.git/transports/obfs4"

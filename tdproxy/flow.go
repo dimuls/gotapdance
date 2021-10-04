@@ -2,7 +2,7 @@ package tdproxy
 
 import (
 	"errors"
-	"github.com/refraction-networking/gotapdance/tapdance"
+	"github.com/dimuls/gotapdance/tapdance"
 	"io"
 	"net"
 	"strconv"

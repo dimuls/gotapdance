@@ -12,9 +12,9 @@ import (
 	"strings"
 	"sync"
 
+	pb "github.com/dimuls/gotapdance/protobuf"
+	ps "github.com/dimuls/gotapdance/tapdance/phantoms"
 	"github.com/golang/protobuf/proto"
-	pb "github.com/refraction-networking/gotapdance/protobuf"
-	ps "github.com/refraction-networking/gotapdance/tapdance/phantoms"
 )
 
 type assets struct {

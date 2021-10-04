@@ -12,7 +12,7 @@ import (
 
 	"github.com/golang/protobuf/proto"
 	toml "github.com/pelletier/go-toml"
-	pb "github.com/refraction-networking/gotapdance/protobuf"
+	pb "github.com/dimuls/gotapdance/protobuf"
 )
 
 func printClientConf(clientConf *pb.ClientConf) {

@@ -5,7 +5,7 @@ import (
 	"errors"
 	"net"
 
-	pb "github.com/refraction-networking/gotapdance/protobuf"
+	pb "github.com/dimuls/gotapdance/protobuf"
 )
 
 var sessionsTotal CounterUint64

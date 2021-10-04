@@ -13,7 +13,7 @@ import (
 	"time"
 
 	"github.com/golang/protobuf/proto"
-	pb "github.com/refraction-networking/gotapdance/protobuf"
+	pb "github.com/dimuls/gotapdance/protobuf"
 	log "github.com/sirupsen/logrus"
 )
 

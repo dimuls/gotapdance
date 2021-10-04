@@ -13,9 +13,9 @@ import (
 	"time"
 
 	"github.com/pkg/profile"
-	pb "github.com/refraction-networking/gotapdance/protobuf"
-	"github.com/refraction-networking/gotapdance/tapdance"
-	"github.com/refraction-networking/gotapdance/tdproxy"
+	pb "github.com/dimuls/gotapdance/protobuf"
+	"github.com/dimuls/gotapdance/tapdance"
+	"github.com/dimuls/gotapdance/tdproxy"
 	"github.com/sirupsen/logrus"
 )
 

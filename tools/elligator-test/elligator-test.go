@@ -9,8 +9,8 @@ import (
 	"crypto/rand"
 	"encoding/hex"
 	"fmt"
-	//"github.com/refraction-networking/gotapdance/ed25519"
-	"github.com/refraction-networking/gotapdance/ed25519/extra25519"
+	//"github.com/dimuls/gotapdance/ed25519"
+	"github.com/dimuls/gotapdance/ed25519/extra25519"
 )
 
 func main() {
